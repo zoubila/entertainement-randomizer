@@ -8,7 +8,8 @@ It will not use log in system, everything will works with cookies.
 
 Enjoy
 
-this is alpha version
+# Feature 1 :
+Login if you want it.
 
 # Getting Started with Create React App
 
