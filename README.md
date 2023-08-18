@@ -1,3 +1,13 @@
+# movie-choice-randomizer
+
+Don't know what to watch tonight ? just click
+
+This is first preview of a portal leading to a random choice of wich movie, music or book you are going to enjoy with. It will works with APIs like imdb
+
+It will not use log in system, everything will works with cookies.
+
+Enjoy
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
