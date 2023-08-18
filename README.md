@@ -8,6 +8,9 @@ It will not use log in system, everything will works with cookies.
 
 Enjoy
 
+# Feature 1 :
+Login if you want it.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
